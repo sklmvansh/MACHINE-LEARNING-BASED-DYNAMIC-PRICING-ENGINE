@@ -61,7 +61,3 @@ Model can be adapted to real-time prediction systems with minor modifications.
 Integrate with real-time demand API for live pricing updates.
 Explore Reinforcement Learning for adaptive pricing strategies.
 Extend to multi-product pricing optimization.
-
-📬 Contact
-Sathvik Manda
-Email: m.sathvik2004@gmail.com
